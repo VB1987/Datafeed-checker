@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <datafeed>
+        <name>Feed 1</name>
+        <created>2019-10-19</created>
+        <modified>2019-11-9</modified>
+        <ean>5901234123457</ean>
+    </datafeed>
+    <datafeed>
+        <name>Feed 2</name>
+        <created>2019-10-22</created>
+        <modified>2019-11-19</modified>
+        <ean>5901234123458</ean>
+    </datafeed>
+    <datafeed>
+        <name>Feed 3</name>
+        <created>2018-10-22</created>
+        <modified>2018-11-19</modified>
+        <ean>5901234123459</ean>
+    </datafeed>
+    <datafeed>
+        <name>Feed 4</name>
+        <created>2018-10-22</created>
+        <modified>2018-10-22</modified>
+        <ean>5901234123456</ean>
+    </datafeed>
+</data>
